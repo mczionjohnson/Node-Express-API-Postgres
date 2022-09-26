@@ -12,12 +12,10 @@
   "license": "ISC",
   "dependencies": {
     "bootstrap": "^3.4.1",
-    "csrf": "^3.1.0",
     "ejs": "^3.1.7",
     "express": "^4.18.1",
     "express-validator": "^6.14.1",
     "helmet": "^5.1.0",
-    "mongodb": "^4.6.0",
     "pg": "^8.7.3"
   },
   "devDependencies": {
